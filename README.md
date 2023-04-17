@@ -27,7 +27,7 @@
 
   ## Installation
   
-  undefined
+  Inquirer 8.2.4
   
   ## Usage
   
